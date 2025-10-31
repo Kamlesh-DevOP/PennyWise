@@ -3,6 +3,8 @@
 PennyWise is a modern expense tracking application built with React and Node.js that helps you monitor and analyze your spending habits. Track expenses, visualize spending patterns, and make informed financial decisions.
 
 ![PennyWise Dashboard](https://github.com/Kamlesh-DevOP/PennyWise/raw/master/docs/screenshots/dashboard.png)
+![Add expense](https://github.com/Kamlesh-DevOP/PennyWise/raw/master/docs/screenshots/add-expense.png)
+![Expenses page](https://github.com/Kamlesh-DevOP/PennyWise/raw/master/docs/screenshots/expenses.png)
 
 ## Features
 
